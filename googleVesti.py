@@ -37,7 +37,7 @@ else:
     logo()
 
 def guglVesti():
-    URL = 'https://news.google.com/rss?gl=US&hl=en-US&ceid=US:en'
+    URL = 'https://news.google.com/rss?gl=RS&ceid=RS:sr&hl=sr'
     RES = requests.get(URL)
     SOUP = BeautifulSoup(RES.content, 'xml')
 
