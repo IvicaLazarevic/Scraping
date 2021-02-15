@@ -1,6 +1,6 @@
 # Scraping
 
-<b> - Spisak kodova koji se nalaze u okviru Kodovi za pocetnike na sajtu https://pythonbytes.rs </b>
+<b> - Spisak kodova koji se nalaze u okviru Web scraping na sajtu https://pythonbytes.rs </b>
   - [Random naslov filma sa IMDB TOP 250](randomFilmovi.py)
   - [Statistika za korona virus](koronaSlucajevi.py)
   - [Random naslov filma sa IMDB TOP 250 v.0.2](randomFilmovi.v.0.2.py)
