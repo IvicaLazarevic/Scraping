@@ -17,3 +17,4 @@
   - [Scrap epicgames.com Promocije](epicgamesPromocije.py)
   - [Scrap rottentomatoes.com Top 100 Filmova](rottenTomatoes100.py)
   - [Scrap news.google.com RSS](googleVesti.py)
+  - [Scrap Hacker News RSS](hackerNews.py)
