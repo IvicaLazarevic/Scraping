@@ -18,3 +18,4 @@
   - [Scrap rottentomatoes.com Top 100 Filmova](rottenTomatoes100.py)
   - [Scrap news.google.com RSS](googleVesti.py)
   - [Scrap Hacker News RSS](hackerNews.py)
+  - [Scrap stat.gov.rs](zavodStatistika.py)
