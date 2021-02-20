@@ -19,3 +19,4 @@
   - [Scrap news.google.com RSS](googleVesti.py)
   - [Scrap Hacker News RSS](hackerNews.py)
   - [Scrap stat.gov.rs](zavodStatistika.py)
+  - [Scrap tempail.com](tempail.py)
