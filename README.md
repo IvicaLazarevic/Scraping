@@ -20,4 +20,4 @@
   - [Scrap Hacker News RSS](hackerNews.py)
   - [Scrap stat.gov.rs](zavodStatistika.py)
   - [Scrap tempail.com](tempail.com.py)
-  - [Scrap pljusak.com](pljusak.com)
+  - [Scrap pljusak.com](pljusak.com.py)
