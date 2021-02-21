@@ -21,3 +21,4 @@
   - [Scrap stat.gov.rs](zavodStatistika.py)
   - [Scrap tempail.com](tempail.com.py)
   - [Scrap pljusak.com](pljusak.com.py)
+  - [Scrap Wikipedia lista UFC turnira](listaUFCturnira.py)
