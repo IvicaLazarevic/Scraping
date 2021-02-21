@@ -23,3 +23,4 @@
   - [Scrap pljusak.com](pljusak.com.py)
   - [Scrap Wikipedia lista UFC turnira](listaUFCturnira.py)
   - [Scrap helloworld.rs](helloworld.rs.py)
+  - [Scrap pythonbytes.rs RSS](pythonBytes.rs.py)
