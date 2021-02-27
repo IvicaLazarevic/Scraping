@@ -26,3 +26,4 @@
   - [Scrap pythonbytes.rs RSS](pythonBytes.rs.py)
   - [Scrap cineplexx.rs](cineplexx.rs.py)
   - [Scrap navidiku.rs](navidiku.rs.py)
+  - [Scrap filmovi.me](filmovi.me.py)
