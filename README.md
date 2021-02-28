@@ -27,3 +27,4 @@
   - [Scrap cineplexx.rs](cineplexx.rs.py)
   - [Scrap navidiku.rs](navidiku.rs.py)
   - [Scrap filmovi.me](filmovi.me.py)
+  - [Scrap gledajonline.net](gledajonline.net.py)
