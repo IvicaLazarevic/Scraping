@@ -28,3 +28,4 @@
   - [Scrap navidiku.rs](navidiku.rs.py)
   - [Scrap filmovi.me](filmovi.me.py)
   - [Scrap gledajonline.net](gledajonline.net.py)
+  - [Scrap cinestartvchannels.hr](cinestartvchannels.hr.py)
