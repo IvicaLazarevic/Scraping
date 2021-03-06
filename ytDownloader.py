@@ -108,8 +108,3 @@ if __name__ == '__main__':
         print(f'\n\n[+] Uspesno ste skinuli fajl!')
     except:
         exit('\n[-] Rezolucija nije dostupna!')
-
-
-
-
-
